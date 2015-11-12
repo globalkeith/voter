@@ -1,0 +1,2 @@
+defmodule Voter do
+end
