@@ -1,4 +1,0 @@
-
-defmodule Voter do
-  
-end
